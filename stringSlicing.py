@@ -9,4 +9,3 @@ print(string[0:len(string)])
  #negative index
 
 print(string[::-1])  #reverese the string
-print(string[9:4])
