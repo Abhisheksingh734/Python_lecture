@@ -16,10 +16,11 @@ print(Story.count("a"))
 print(Story.capitalize())
 
 #gives the index value 
-print(Story.find("Abhishek"))
+print(Story.find("Abhishek")) #first occurence
 
 #to replace
 print(Story.replace("Microsoft","Google"))
+
 
 
 
