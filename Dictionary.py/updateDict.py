@@ -9,7 +9,8 @@ mydict = {
 print(mydict)
 
 updateDict={"Good":"Friend",
-"D": "Friend"
+"D": "Friend",
+"Age":"20"
 
 
 }                                   #what you eant to update
