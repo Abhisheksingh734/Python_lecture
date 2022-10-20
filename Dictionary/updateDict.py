@@ -16,3 +16,4 @@ updateDict={"Good":"Friend",
 }                                   #what you eant to update
 mydict.update(updateDict)   #update function
 print(mydict)
+
