@@ -1,0 +1,8 @@
+hii my name is abhishek singh 
+i am 19 yrs old
+more lines
+and more lines 2
+abhishek singh raghuvanshi
+
+
+readlines will read the lines one by one and return in form of list of conating lines as a single element
