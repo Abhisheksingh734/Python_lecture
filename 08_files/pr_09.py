@@ -3,6 +3,6 @@
 
 # with open("Renamed_by_python.txt","w") as f:
 #     f.write(content)
-
-import os
-os.rename("rename1.txt","files/rename.txt")
+# import os
+# os.rename("")
+print("the""man")
