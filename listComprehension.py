@@ -1,1 +1,2 @@
-squares=[i**2 for i in range(10)]
+num=(input().split())
+print(num)
