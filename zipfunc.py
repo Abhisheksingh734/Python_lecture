@@ -16,3 +16,10 @@ print(new)
 # print(l)
 
 
+# keys=[1,2,3,4,5]
+# values=[5,6,7,8,8]
+# myDict=dict(zip(keys,values))
+# print(myDict)
+
+myDict={x.upper():x*3 for x in "coding"}
+print(myDict)
